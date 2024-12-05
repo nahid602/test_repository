@@ -1,0 +1,18 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+* {
+    outline: none;
+    border: none;
+}
+body {
+    background-color: #1d1414;
+}
+
+
+i {
+    color: white;
+    font-size: 4rem;
+}
+
+
+
